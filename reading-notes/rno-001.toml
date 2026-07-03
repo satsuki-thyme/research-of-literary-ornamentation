@@ -1,0 +1,26 @@
+[data]
+title = "伊豆の踊子"
+label = "新潮文庫"
+ISBN = "978-4-10-100245-3"
+
+[date.]
+page            = ""
+kanji_rate      = "" # 漢字率 （多い・少ない）
+sentence_length = "" # 文長 （長い・短い）
+end_of_sentence = "" # 文末 （名詞・動詞・形容詞）
+particle        = "" # 助詞 （「は」が多い、「が」が多い）
+metaphor        = "" # 比喩 （多い・少ない）
+perspective     = "" # 視点 （一人称・三人称）
+tempo           = "" # テンポ （速い・遅い）
+impression      = "" # 印象 （冷たい・暖かい・透明・重厚など）
+
+[date.]
+page            = ""
+kanji_rate      = "" # 漢字率 （多い・少ない）
+sentence_length = "" # 文長 （長い・短い）
+end_of_sentence = "" # 文末 （名詞・動詞・形容詞）
+particle        = "" # 助詞 （「は」が多い、「が」が多い）
+metaphor        = "" # 比喩 （多い・少ない）
+perspective     = "" # 視点 （一人称・三人称）
+tempo           = "" # テンポ （速い・遅い）
+impression      = "" # 印象 （冷たい・暖かい・透明・重厚など）
