@@ -4,6 +4,8 @@
 
 ### 研究ノート
 
+- research-notes/res-001.md: 日本語の文体
+
 ### 読書ノート
 
 - reading-notes/rno-000.toml: テンプレート
