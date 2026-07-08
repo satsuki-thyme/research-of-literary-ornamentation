@@ -17,7 +17,9 @@ impression      = "" # 印象 （冷たい・暖かい・透明・重厚など�
 date = !
 page_start = !
 page_end = !
-contents = """\
+target = """\
+"""
+opinion = """\
 """
 ChatGPT = """\
 """
