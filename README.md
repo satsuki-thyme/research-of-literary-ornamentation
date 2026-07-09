@@ -8,8 +8,8 @@
 
 ### 読書ノート
 
-- reading-notes/rno-000.toml: テンプレート
-- reading-notes/rno-001.toml: 伊豆の踊子
+- reading-notes/reN-000.toml: テンプレート
+- reading-notes/reN-001.toml: 伊豆の踊子
 
 ## アイデアノート
 
