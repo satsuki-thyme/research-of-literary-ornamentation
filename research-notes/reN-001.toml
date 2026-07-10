@@ -1,0 +1,15 @@
+[data]
+title = "日本語の文体"
+ISBN = "9784000042178"
+
+[[memo]]
+num = !
+date = !
+page_start = !
+page_end = !
+target = """\
+"""
+opinion = """\
+"""
+ChatGPT = """\
+"""
