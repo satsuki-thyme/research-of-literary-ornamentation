@@ -14,6 +14,10 @@
 - reading-notes/rea-000.toml: テンプレート
 - reading-notes/rea-001.toml: 伊豆の踊子
 
+## 書写
+
+- copying/cop-001.md: 川端康成「雪国」
+
 ## アイデアノート
 
 
