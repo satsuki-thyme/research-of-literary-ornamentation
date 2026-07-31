@@ -2,6 +2,10 @@
 
 ## 目次
 
+### 技術ノート
+
+- technique-notes.toml: 技術ノート
+
 ### 研究ノート
 
 - research-notes/reN-000.toml: テンプレート
